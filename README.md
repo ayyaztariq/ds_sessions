@@ -1,3 +1,3 @@
 # ds_sessions
 
-- Version control dession done on 27-Oct
+- Version control session done on 27-Oct
