@@ -1,3 +1,4 @@
 # ds_sessions
 
-- Version control session done on 27-Oct
+- Session-1: Databases : 26-Oct-2021
+- Session-2: Version Control : 27-Oct-2021
